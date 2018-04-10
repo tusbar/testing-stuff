@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "echo 'ok'"
+  },
   "repository": "https://github.com/tusbar/testing-stuff",
   "author": "Bertrand Marron <bertrand.marron@gmail.com>",
   "license": "MIT",
