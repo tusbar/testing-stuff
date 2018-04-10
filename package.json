@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/tusbar/testing-stuff",
   "author": "Bertrand Marron <bertrand.marron@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "is-thirteen": "^2.0.0"
+  }
 }
